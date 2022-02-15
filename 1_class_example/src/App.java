@@ -4,9 +4,9 @@ public class App {
         Hero zilong = new Hero();
 
         zilong.name = "Zilong";
-        zilong.speed = 15;
+        zilong.power = 15;
         zilong.healthPoin = 100;
 
-        zilong.run();
+        zilong.attack();
     }
 }
