@@ -1,4 +1,3 @@
-import javax.swing.plaf.ButtonUI;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -14,7 +13,7 @@ public class App {
         });
         btn.doClick();
 
-        
+
         // with anonymous using lambda
         Button btnLamda = new Button();
         // anonymous
